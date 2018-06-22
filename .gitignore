@@ -1,6 +1,9 @@
 .git
 .idea
 target/
+out/
+*.class
 bin
 *.iml
+.vscode
 
